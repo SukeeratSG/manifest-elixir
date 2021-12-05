@@ -52,11 +52,7 @@
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" remote="elixir" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="elixir" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="elixir" />
-
-  <project path="packages/apps/Essence" name="packages_apps_Essence" remote="elixir">
-    <linkfile src="res" dest="packages/apps/Settings/res-customisation" />
-    <linkfile src="src" dest="packages/apps/Settings/src_customisation" />
-  </project>
+  <project path="packages/apps/Essence" name="packages_apps_Essence" remote="elixir" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="elixir" />
