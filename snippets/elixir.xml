@@ -53,6 +53,7 @@
   <project path="packages/services/Telephony" name="packages_services_Telephony" remote="elixir" />
   <project path="packages/resources/devicesettings" name="packages_resources_devicesettings" remote="elixir" />
   <project path="packages/apps/Essence" name="packages_apps_Essence" remote="elixir" />
+  <project path="packages/apps/Updates" name="packages_apps_Updates" remote="elixir" />
 
   <!-- System Repos -->
   <project path="system/bt" name="system_bt" remote="elixir" />
