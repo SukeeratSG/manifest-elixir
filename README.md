@@ -26,13 +26,13 @@ cd WORKSPACE
 >> [Hint: This might take a long time]
 
 ```bash
-repo init -u https://github.com/Project-Elixir/manifest -b snow
+repo init -u https://github.com/Project-Elixir/official_manifest -b snow
 ```
 
 >> [Hint: Want to save some space ? Then use this]
 
 ```bash
-repo init --depth=1 -u https://github.com/Project-Elixir/manifest -b snow
+repo init --depth=1 -u https://github.com/Project-Elixir/official_manifest -b snow
 ```
 
 ### Download the source
