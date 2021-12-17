@@ -52,7 +52,7 @@
   <project path="hardware/qcom-caf/sdm845/media" name="hardware_qcom-caf_sdm845_media" remote="elixir" />
 
   <!-- Packages repos -->
-  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="pixel" />
+  <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" remote="elixir" />
   <project path="packages/apps/Settings" name="android_packages_apps_Settings" remote="elixir" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" remote="pixel" />
   <project path="packages/services/Telecomm" name="android_packages_services_Telecomm" remote="elixir" />
@@ -63,10 +63,10 @@
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="pixel" />
 
   <!-- System Repos -->
-  <project path="system/bt" name="system_bt" remote="pixel" />
+  <project path="system/bt" name="system_bt" remote="elixir" />
   <project path="system/core" name="system_core" remote="pixel" />
   <project path="system/netd" name="system_netd" remote="pixel" />
-  <project path="system/sepolicy" name="system_sepolicy" remote="pixel" />
+  <project path="system/sepolicy" name="system_sepolicy" remote="elixir" />
   <project path="system/vold" name="system_vold" remote="pixel" />
   <project path="system/update_engine" name="system_update_engine" remote="pixel" />
 
