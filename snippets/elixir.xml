@@ -2,7 +2,7 @@
 <manifest>
 
   <remote name="elixir"
-          fetch="https://github.com/Project-Elixir"
+          fetch="ssh://git@github.com/Project-Elixir"
           revision="snow" />
 
   <remote name="elixir-gitlab"
